@@ -7,11 +7,11 @@ Termux
 # Tested On
 Termux
 
-Requirements 
+# Requirements 
 * Internet 
 * mpv figlet git
 
-Installation [Termux]
+## Installation [Termux]
 * apt update && apt upgrade
 * pkg install git figlet mpv
 * git clone https://github.com/AnonyMux037/Qurxin--
